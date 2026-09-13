@@ -12,7 +12,6 @@ This repository demonstrates a **practical localhost-first automation engine** i
 
 > [!NOTE]
 > **Author:** Malek Saifullizan — *AI Automation & Internal Systems Developer*  
-> **Portfolio:** [me.webbku.com](https://me.webbku.com/)  
 > **Philosophy:** Operations First. Understand the process before automating it.
 
 ---
@@ -303,5 +302,4 @@ In production environments, this pattern connects directly to live enterprise ad
 
 **Malek Saifullizan**  
 *AI Automation & Internal Systems Developer*  
-- Portfolio: [me.webbku.com](https://me.webbku.com/)  
 - Expertise: AI Automation, Internal Systems, Python, PHP, JavaScript, APIs, Webhooks, Google Apps Script
