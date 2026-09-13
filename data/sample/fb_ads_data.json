@@ -1,0 +1,50 @@
+{
+  "platform": "Meta Ads",
+  "account_id": "act_88492019482",
+  "reporting_date": "2026-09-13",
+  "currency": "MYR",
+  "campaigns": [
+    {
+      "campaign_id": "meta_c01",
+      "campaign_name": "Advantage+ Shopping - Ramadan / Raya Promotion",
+      "status": "ACTIVE",
+      "objective": "CONVERSIONS",
+      "spend": 450.00,
+      "impressions": 28450,
+      "clicks": 912,
+      "cpc": 0.49,
+      "ctr_percent": 3.21,
+      "conversions": 38,
+      "revenue": 1824.00,
+      "roas": 4.05
+    },
+    {
+      "campaign_id": "meta_c02",
+      "campaign_name": "Retargeting - Abandoned Cart (30 Days)",
+      "status": "ACTIVE",
+      "objective": "CONVERSIONS",
+      "spend": 180.00,
+      "impressions": 7200,
+      "clicks": 340,
+      "cpc": 0.53,
+      "ctr_percent": 4.72,
+      "conversions": 19,
+      "revenue": 950.00,
+      "roas": 5.28
+    },
+    {
+      "campaign_id": "meta_c03",
+      "campaign_name": "Top of Funnel - Brand Video UGC Awareness",
+      "status": "ACTIVE",
+      "objective": "AWARENESS",
+      "spend": 120.00,
+      "impressions": 19500,
+      "clicks": 210,
+      "cpc": 0.57,
+      "ctr_percent": 1.08,
+      "conversions": 3,
+      "revenue": 144.00,
+      "roas": 1.20
+    }
+  ]
+}

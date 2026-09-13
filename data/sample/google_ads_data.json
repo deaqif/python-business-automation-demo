@@ -1,0 +1,50 @@
+{
+  "platform": "Google Ads",
+  "customer_id": "942-381-4491",
+  "reporting_date": "2026-09-13",
+  "currency": "MYR",
+  "campaigns": [
+    {
+      "campaign_id": "gad_c01",
+      "campaign_name": "Google Search - High Intent Brand & Category Keywords",
+      "status": "ACTIVE",
+      "channel_type": "SEARCH",
+      "spend": 320.00,
+      "impressions": 8400,
+      "clicks": 420,
+      "cpc": 0.76,
+      "ctr_percent": 5.00,
+      "conversions": 26,
+      "revenue": 1430.00,
+      "roas": 4.47
+    },
+    {
+      "campaign_id": "gad_c02",
+      "campaign_name": "Performance Max - All Catalog Feed",
+      "status": "ACTIVE",
+      "channel_type": "PERFORMANCE_MAX",
+      "spend": 260.00,
+      "impressions": 14200,
+      "clicks": 310,
+      "cpc": 0.84,
+      "ctr_percent": 2.18,
+      "conversions": 16,
+      "revenue": 880.00,
+      "roas": 3.38
+    },
+    {
+      "campaign_id": "gad_c03",
+      "campaign_name": "Google Display - Remarketing Visitors",
+      "status": "PAUSED",
+      "channel_type": "DISPLAY",
+      "spend": 45.00,
+      "impressions": 12000,
+      "clicks": 90,
+      "cpc": 0.50,
+      "ctr_percent": 0.75,
+      "conversions": 2,
+      "revenue": 95.00,
+      "roas": 2.11
+    }
+  ]
+}

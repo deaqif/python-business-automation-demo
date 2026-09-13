@@ -1,0 +1,17 @@
+{
+  "spreadsheet_title": "Q3 2026 Marketing Operations Targets & KPI Database",
+  "sheet_name": "Daily_Targets",
+  "last_synced": "2026-09-13T08:00:00Z",
+  "currency": "MYR",
+  "targets": {
+    "daily_budget_max": 1500.00,
+    "target_blended_roas": 3.50,
+    "target_cpa_max": 18.00,
+    "target_daily_revenue": 4500.00
+  },
+  "operational_rules": {
+    "pause_if_roas_below": 1.50,
+    "scale_if_roas_above": 4.00,
+    "alert_telegram_on_cpa_spike": true
+  }
+}
